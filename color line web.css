@@ -1,0 +1,22 @@
+@charset "utf-8";
+	.st0
+{
+	border-style : Solid;
+	border-color : #F7931E;
+	border-color : rgba(247, 147, 30, 1);
+	border-width : 5px;
+}
+.st1
+{
+	border-style : Solid;
+	border-color : #2E3192;
+	border-color : rgba(46, 49, 146, 1);
+	border-width : 5px;
+}
+.st2
+{
+	border-style : Solid;
+	border-color : #1B1464;
+	border-color : rgba(27, 20, 100, 1);
+	border-width : 5px;
+}

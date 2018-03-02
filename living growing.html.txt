@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>living growing stuff</title>
+<link href="color line web.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+body {
+	background-color: #EEE3F5;
+	margin-left: 20px;
+	margin-top: 10px;
+	margin-right: 200px;
+}
+</style>
+</head>
+
+<body>
+<img src="RESOURCE SELECTED/the growing living stuff/New folder/_MG_1256.JPG" width="600" height="399" alt=""/> 
+<br>
+here is a glimpse into the living growing stuff- my prime collaborators and companions.<br><br>
+<img src="RESOURCE SELECTED/the growing living stuff/New folder/_MG_0944.JPG" width="600" height="399" alt=""/> 
+<br> 1. the fishbowl mycelium./ networked fishbowl <br><br>
+<img src="RESOURCE SELECTED/the growing living stuff/New folder/_MG_1009.JPG" width="600" height="399" alt=""/> 
+<br>
+the mycelium fibres grew in the powder, and then over the bowl, connecting every bit of food. A young botanist friend told me, that when mycellium cannot find any more nutrition, it commits sucide after producing spore. the organism has to make a choice 
+<br>
+here, what i find really interesting is that how it territorizes space- it grows across scales in the medium to cover or 'address' every milimeter square of space- its perception of the bowl is perfect. 
+<br>
+the other thing is an understanding that there isn't enough food or conditions to grow a fruiting body. so it has to make a choice. perhaps it is pre-decided how much substrate would yield a mushroom. yet some kind of analysis and decision is made by the mycelium.
+<br>
+<img src="RESOURCE SELECTED/the growing living stuff/New folder/_MG_0992.JPG" width="600" height="399" alt=""/> 
+<br>self organisation in mycelium is so fundamental- so simple one could say- it develops veins to transport water and nutrients within the substrate. the veins grew over the glass in search of unknown unconqured territory. It grew over glass connecting small food islands.<br>
+<img src="RESOURCE SELECTED/the growing living stuff/New folder/_MG_0991.JPG" width="600" height="399" alt=""/>
+<br><br><br>
+The wheat roots observation.<br><br>
+ the wheat roots experiment is an attempt to see the roots of wheat growing and making connections with each other. other organisms inevitably become a pert of this mela. I'm hoping to capture it with long durtion timelapse using a simple setup. <br>
+
+I have attempted the growing part. It failed a few time. temperature conditions needed to be regulated. the correct fungi needs to grow, the wrong ones stink really bad. worms appear in the water in two days. other things happen. <br>
+<img src="RESOURCE SELECTED/the growing living stuff/New folder/_MG_1374.JPG" width="600" height="399" alt=""/>
+<br>
+<img src="RESOURCE SELECTED/the growing living stuff/New folder/_MG_1371.JPG" width="600" height="399" alt=""/>
+
+</body>
+</html>

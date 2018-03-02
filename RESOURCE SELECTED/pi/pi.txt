@@ -1,0 +1,33 @@
+31st jan
+on the first front
+raspberry pi day two. 
+
+< images in phone >
+
+I had tried to run the pi on a few occasions. problems- NO HDMI monitor, pi not working when i tried with a HDMI to vga converter- with two different converters. it had never been run before. 
+
+attempt two- monday- problem- json could not be found. installation not starting. 
+
+tried formatting the card with the sdcardFormatter- got stuck at 81 percent and got bricked after that. 8 gb card sacrificed.  
+
+tuesday- attempt three- I brought a new card (16gb; 520 rupees), pasted NOOBS on it, and turned on the pi. It worked. 
+
+after installation of raspbian-
+
+installed ssh and get remote accesss from phone in tandem with the screen. have not yet used the phone standalone to use the pi. 
+
+fixed the camera module into the pi. enabled camera from prefrences. rebooted device. opened terminal; command line for taking image- raspistill -o img.jpg.
+
+// the camera is attached to the pi with a small strip- about 8 cm in length. this makes the camera less flexible. 
+//since none of the devices are cased and the camera is just flimsy, i needed to make a setup where it could take pictures of what i want it to take pictures of, without me having to hold it. 
+
+wednesday- made a basic setup for the pi cam. 
+		tested it with the 60x microscope. it did okay. 
+		the image is not that focussed somehow. 
+		the circle is present. the camera is wide angle. 
+		testing it with lenses. 
+		
+
+		figured code for timelapse. 
+
+		need to set the pi and the device near the growing plants now. for that i need to get a monitor or figure something out to be able to run the pi at home. the present option is the phone. But i want a standalone screen. 5inch- 3400; 3.4inch -1200
